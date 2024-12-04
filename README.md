@@ -3,7 +3,7 @@
 
 [![Typing SVG](<https://readme-typing-svg.demolab.com?font=Play&vCenter=true&left=true&size=50&pause=1000&color=FFF&width=1000&height=65&lines=Ol%C3%A1+%2C+eu+sou+o+Vinicius+🧑🏻‍🦱+;Seja+Bem-Vindo(a)+!+💻>)](https://git.io/typing-svg)
 
-- 💻 Full Stack JavaScript Developer
+- 💻 Data Analyst at SHOULDER.
 - 📕 I love reading and coding
 - 💡 I've a study social network on Medium (https://medium.com/@viniciusds1997) where I publish all my projects in article form to help programmers
 - 📚 Student of Computer Science
